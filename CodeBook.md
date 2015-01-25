@@ -2,84 +2,78 @@
 
 ###Variables are as follows
 
-subjectid
-activitylabel
-tbodyaccmeanx
-tbodyaccmeany
-tbodyaccmeanz
-tgravityaccmeanx
-tgravityaccmeany
-tgravityaccmeanz
-tbodyaccjerkmeanx
-tbodyaccjerkmeany
-tbodyaccjerkmeanz
-tbodygyromeanx
-tbodygyromeany
-tbodygyromeanz
-tbodygyrojerkmeanx
-tbodygyrojerkmeany
-tbodygyrojerkmeanz
-tbodyaccmagmean
-tgravityaccmagmean
-tbodyaccjerkmagmean
-tbodygyromagmean
-tbodygyrojerkmagmean
-fbodyaccmeanx
-fbodyaccmeany
-fbodyaccmeanz
-fbodyaccmeanfreqx
-fbodyaccmeanfreqy
-fbodyaccmeanfreqz
-fbodyaccjerkmeanx
-fbodyaccjerkmeany
-fbodyaccjerkmeanz
-fbodyaccjerkmeanfreqx
-fbodyaccjerkmeanfreqy
-fbodyaccjerkmeanfreqz
-fbodygyromeanx
-fbodygyromeany
-fbodygyromeanz
-fbodygyromeanfreqx
-fbodygyromeanfreqy
-fbodygyromeanfreqz
-fbodyaccmagmean
-fbodyaccmagmeanfreq
-fbodybodyaccjerkmagmean
-fbodybodyaccjerkmagmeanfreq
-fbodybodygyromagmean
-fbodybodygyromagmeanfreq
-fbodybodygyrojerkmagmean
-fbodybodygyrojerkmagmeanfreq
-tbodyaccstdx
-tbodyaccstdy
-tbodyaccstdz
-tgravityaccstdx
-tgravityaccstdy
-tgravityaccstdz
-tbodyaccjerkstdx
-tbodyaccjerkstdy
-tbodyaccjerkstdz
-tbodygyrostdx
-tbodygyrostdy
-tbodygyrostdz
-tbodygyrojerkstdx
-tbodygyrojerkstdy
-tbodygyrojerkstdz
-tbodyaccmagstd
-tgravityaccmagstd
-tbodyaccjerkmagstd
-tbodygyromagstd
-tbodygyrojerkmagstd
-fbodyaccstdx
-fbodyaccstdy
-fbodyaccstdz
-fbodyaccjerkstdx
-fbodyaccjerkstdy
-fbodyaccjerkstdz
-fbodygyrostdx
-fbodygyrostdy
-fbodygyrostdz
-fbodyaccmagstd
-fbodybodyaccjerkmagstd
-fbodybodygyromagstd
-fbodybodygyrojerkmagstd
+* subjectid
+* activitylabel
+* tbodyaccmeanx
+* tbodyaccmeany
+* tbodyaccmeanz
+* tgravityaccmeanx
+* tgravityaccmeany
+* tgravityaccmeanz
+* tbodyaccjerkmeanx
+* tbodyaccjerkmeany
+* tbodyaccjerkmeanz
+* tbodygyromeanx
+* tbodygyromeany
+* tbodygyromeanz
+* tbodygyrojerkmeanx
+* tbodygyrojerkmeany
+* tbodygyrojerkmeanz
+* tgravityaccmagmean
+* tbodyaccjerkmagmean
+* tbodygyromagmean
+* fbodyaccmeanx
+* fbodyaccmeany
+* fbodyaccmeanz
+* fbodyaccmeanfreqx
+* fbodyaccmeanfreqy
+* fbodyaccmeanfreqz
+* fbodyaccjerkmeany
+* fbodyaccjerkmeanz
+* fbodyaccjerkmeanfreqx
+* fbodyaccjerkmeanfreqy
+* fbodyaccjerkmeanfreqz
+* fbodygyromeanx
+* fbodygyromeany
+* fbodygyromeanz
+* fbodygyromeanfreqx
+* fbodygyromeanfreqy
+* fbodygyromeanfreqz
+* fbodyaccmagmean
+* fbodyaccmagmeanfreq
+* fbodybodyaccjerkmagmeanfreq
+* fbodybodygyromagmean
+* fbodybodygyromagmeanfreq
+* fbodybodygyrojerkmagmean
+* fbodybodygyrojerkmagmeanfreq
+* tbodyaccstdx
+* tbodyaccstdy
+* tbodyaccstdz
+* tgravityaccstdx
+* tgravityaccstdy
+* tbodyaccjerkstdx
+* tbodyaccjerkstdy
+* tbodyaccjerkstdz
+* tbodygyrostdx
+* tbodygyrostdy
+* tbodygyrojerkstdx
+* tbodygyrojerkstdy
+* tbodygyrojerkstdz
+* tbodyaccmagstd
+* tgravityaccmagstd
+* tbodyaccjerkmagstd
+* tbodygyromagstd
+* tbodygyrojerkmagstd
+* fbodyaccstdx
+* fbodyaccstdy
+* fbodyaccstdz
+* fbodyaccjerkstdx
+* fbodyaccjerkstdy
+* fbodyaccjerkstdz
+* fbodygyrostdx
+* fbodygyrostdy
+* fbodygyrostdz
+* fbodyaccmagstd
+* fbodybodyaccjerkmagstd
+* fbodybodygyromagstd
+* fbodybodygyrojerkmagstd
